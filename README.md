@@ -1,0 +1,1 @@
+# Syntecxhub_SQL_Injection_Scanner
